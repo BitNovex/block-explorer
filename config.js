@@ -9,7 +9,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "btnx": [
-  ["superblockchain.con-ip.com/btnx", "https://superblockchain.con-ip.com:8888"],
+  ["superblockchain.con-ip.com/btnx", "https://superblockchain.con-ip.com:8887"],
   ["pool.bitnovex.com", "http://pool.bitnovex.com:8133"],
 
  ]
@@ -17,7 +17,7 @@ var networkStat = {
 
 var networkStat2 = {
   "btnx": [
-  ["superblockchain.con-ip.com/btnx", "https://superblockchain.con-ip.com:8888"],
+  ["superblockchain.con-ip.com/btnx", "https://superblockchain.con-ip.com:8887"],
 	["pool.bitnovex.com", "http://pool.bitnovex.com:8133"]
  ]
 };
