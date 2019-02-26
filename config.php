@@ -1,6 +1,6 @@
 <?php
 return array(
-        'api' => 'http://superblockchain.con-ip.com:35223',
-        'blockTargetInterval' => 240,
+        'api' => 'http://pool.bitnovex.com:35223',
+        'blockTargetInterval' => 120,
         'coinUnits' => 1000000
 );
